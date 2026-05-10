@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+
+# models
+*.keras
+*.h5
+
+# predictions
+*.npy
+
+# realtime outputs
+*.csv
+*.xlsx
+
+# vscode
+.vscode/
+
+# python env
+venv/
+env/
